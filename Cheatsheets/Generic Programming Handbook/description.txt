@@ -1,0 +1,27 @@
+Title: A Quick Reference Handbook: Programming Concepts with Java and C
+Description: 
+Version: 0.0.1
+Author: Alliance of Coders
+Number of Chapters: ??
+Number of Pages: ??
+
+Table of Contents
+Chapter 1 - [Chapter Title]
+-Subtopic 1
+-Subtopic 2
+-Subtopic 3
+
+Chapter 2 - [Chapter Title]
+-Subtopic 1
+-Subtopic 2
+-Subtopic 3
+
+Chapter 3 - [Chapter Title]
+-Subtopic 1
+-Subtopic 2
+-Subtopic 3
+
+Chapter 4 - [Chapter Title]
+-Subtopic 1
+-Subtopic 2
+-Subtopic 3
